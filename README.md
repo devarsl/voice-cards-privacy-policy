@@ -1,7 +1,5 @@
 # Privacy Policy for MonoR VoiceCards
 
-**Last Updated:** December 2024
-
 ## Overview
 
 MonoR VoiceCards ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Korean language learning mobile application.
